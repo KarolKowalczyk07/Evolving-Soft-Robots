@@ -5,3 +5,4 @@ By changing the spring constant k, and the spring's rest length as a function of
 Soft robots were evolved by the magnitude of their velocity.
 At first, this involved only evolving the variable parameters a, b, c, and w in the equation Lo = a + b*sin(wt+c).
 Then, co-evolution between the spring parameters and the structure of the robot (positions and number of masses) was achieved.
+A video of one of these robots was captured, with its springs colored by the value of its spring constant.
